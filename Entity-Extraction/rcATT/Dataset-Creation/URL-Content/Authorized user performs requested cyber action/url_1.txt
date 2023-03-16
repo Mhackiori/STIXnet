@@ -1,1 +1,0 @@
-This technique has been deprecated. Please see ATT&CK's Initial Access and Execution tactics for replacement techniques. © 2015-2021, The MITRE Corporation. MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation.

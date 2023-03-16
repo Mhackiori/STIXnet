@@ -1,1 +1,0 @@
-An attacker could jam radio signals (e.g. Wi-Fi, cellular, GPS) to prevent the mobile device from communicating. [1][2][3][4][5] This type of attack technique cannot be easily mitigated with preventive controls since it is based on the abuse of system features.

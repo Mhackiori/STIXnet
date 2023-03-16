@@ -1,1 +1,0 @@
-This technique has been deprecated. Please use Input Capture, Input Injection, and Input Prompt where appropriate. © 2015-2021, The MITRE Corporation. MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation.

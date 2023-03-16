@@ -1,1 +1,0 @@
-This object is deprecated as its content has been merged into the enterprise domain. Please see the PRE matrix for its replacement. The prior content of this page has been preserved here. © 2015-2021, The MITRE Corporation. MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation.

@@ -1,1 +1,0 @@
-If network traffic between the mobile device and remote servers is unencrypted or is encrypted in an insecure manner, then an adversary positioned on the network can eavesdrop on communication.[1] |ID||Mitigation||Description| |M1009||Encrypt Network Traffic|

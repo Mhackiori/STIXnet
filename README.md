@@ -70,6 +70,8 @@ cd STIXnet
 ```
 <sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work.</sup>
 
+To add datasets, models and modules, download it from [here](https://figshare.com/s/a29ca4d4384968370863) and place the contents in this repository.
+
 Then, install the required Python packages by running:
 
 ```bash

@@ -1,1 +1,0 @@
-5.6.1 Zone.Identifier Stream Name Windows Internet Explorer uses the stream name Zone.Identifier for storage of URL security zones. The fully qualified form is sample.txt: Zone.Identifier:$DATA The stream is a simple text stream of the form: [ZoneTransfer] ZoneId=3 [MSDN-SECZONES] gives an explanation of security zones.

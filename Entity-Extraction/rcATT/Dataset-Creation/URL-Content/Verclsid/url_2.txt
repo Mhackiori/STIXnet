@@ -1,1 +1,0 @@
-verclsid.exe /S /C {CLSID}
