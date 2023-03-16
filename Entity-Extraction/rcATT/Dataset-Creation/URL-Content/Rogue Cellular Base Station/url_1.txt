@@ -1,0 +1,1 @@
+An adversary could set up a rogue cellular base station and then use it to eavesdrop on or manipulate cellular device communication. A compromised cellular femtocell could be used to carry out this technique[1]. |ID||Mitigation||Description| |M1009||Encrypt Network Traffic|

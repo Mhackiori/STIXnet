@@ -1,0 +1,1 @@
+This command dumps the Security Account Managers (SAM) database. It contains NTLM, and sometimes LM hash, of users passwords. It can work in two modes: online (with SYSTEM user or token) or offline (with SYSTEM & SAM hives or backup) online If you're not SYSTEM or using an impersonated SYSTEM token, you'll have access denied error:

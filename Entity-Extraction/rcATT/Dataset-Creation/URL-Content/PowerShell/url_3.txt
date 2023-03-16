@@ -1,0 +1,1 @@
+Using Kaitai Struct to Parse Cobalt Strike Beacon Configs I have seen a definite uptick in security researchers hunting Cobalt Strike servers, and tweeting/sharing indicators or config data. There are two popular config parsing methods I have seen: the Nmap NSE script written by @notwhickey and the Sentinel One parser by @gal_kristal (yes, I am aware many organizations have…

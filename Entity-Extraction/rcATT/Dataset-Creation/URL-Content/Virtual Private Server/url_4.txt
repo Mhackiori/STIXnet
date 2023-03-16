@@ -1,0 +1,1 @@
+Hunting Cobalt Strike C2 with Shodan Four techniques: - Default certificate. - Hash + 50050 port (FP filtering is required). - JARM (FP filtering is required). - ASN/ISP scanning (this one is handy for subnet pivoting). You can read my Twitter thread where I explained the logic behind each technique.

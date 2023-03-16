@@ -1,0 +1,1 @@
+GetHooks is a program designed for the passive detection and monitoring of hooks from a limited user account. This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository. GetHooks is a program designed for the passive detection and monitoring of hooks from a limited user account.

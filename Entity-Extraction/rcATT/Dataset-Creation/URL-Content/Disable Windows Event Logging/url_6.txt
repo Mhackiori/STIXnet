@@ -1,0 +1,1 @@
+Adversaries may disable Windows event logging to limit data that can be leveraged for detections and audits. Windows event logs record user and system activity such as login attempts, process creating, and much more. This data is used by security tools and analysis to generate detections.
