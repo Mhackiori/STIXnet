@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mhackiori/STIXnet">
-    <img src="https://i.postimg.cc/KjsPjt3v/logo.png" alt="Logo" width="125" height="200">
+    <img src="Figures/Logo.png" alt="Logo" width="125" height="200">
   </a>
 
   <h1 align="center">STIXnet</h1>
@@ -11,7 +11,7 @@
   <p align="center">
     A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports
     <br />
-    <a href=""><strong>Paper in progress »</strong></a>
+    <a href="https://arxiv.org/abs/2303.09999"><strong>Preprint available »</strong></a>
     <br />
     <br />
     <a href="https://www.math.unipd.it/~fmarchio/">Francesco Marchiori</a>
@@ -68,9 +68,7 @@ To use the models, extract the datasets or run a module, start by cloning the re
 git clone https://github.com/Mhackiori/STIXnet.git
 cd STIXnet
 ```
-<sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work.</sup>
-
-To add datasets, models and modules, download it from [here](https://figshare.com/s/a29ca4d4384968370863) and place the contents in this repository.
+<!-- <sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work.</sup> -->
 
 Then, install the required Python packages by running:
 
@@ -85,7 +83,7 @@ pip install -r requirements.txt
 
 STIXnet performs a highly complex Information Extraction task on many different types of entities and relations. There are indeed 18 different types of entities compliant with the STIX standard and more than 100 types of relations. To accomplish this, STIXnet uses different modules for each one of the different tasks that it must achieve: textual extraction, entity extraction, and relation extraction.
 
-![Pipeline](https://i.postimg.cc/2ykXpdhH/04-Pipeline3-1.png "Pipeline")
+![Pipeline](Figures/Pipeline.png "Pipeline")
 
 <p align="right"><a href="#top">(back to top)</a></p>
 <div id="entityextraction"></div>
