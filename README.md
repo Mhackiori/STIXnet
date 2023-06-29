@@ -30,6 +30,9 @@
       <a href="#abstract">Abstract</a>
     </li>
     <li>
+      <a href="#citation">Citation</a>
+    </li>
+    <li>
       <a href="#usage">Usage</a>
     </li>
     <li>
@@ -58,6 +61,24 @@
 >The automatic extraction of information from Cyber Threat Intelligence (CTI) reports is crucial in risk management. The increased frequency of the publications of these reports has led researchers to develop new systems for automatically recovering different types of entities and relations from textual data. Most state-of-the-art models leverage Natural Language Processing (NLP) techniques, which perform greatly in extracting a few types of entities at a time but cannot detect heterogeneous data or their relations. Furthermore, several paradigms, such as STIX, have become de facto standards in the CTI community and dictate a formal categorization of different entities and relations to enable organizations to share data consistently. This paper presents STIXnet, the first solution for the automated extraction of all STIX entities and relationships in CTI reports. Through the use of NLP techniques and an interactive Knowledge Base (KB) of entities, our approach obtains F1 scores comparable to state-of-the-art models for entity extraction (0.916) and relation extraction (0.724) while considering significantly more types of entities and relations. Moreover, STIXnet constitutes a modular and extensible framework that manages and coordinates different modules to merge their contributions uniquely and exhaustively. With our approach, researchers and organizations can extend their Information Extraction (IE) capabilities by integrating the efforts of several techniques without needing to develop new tools from scratch.
 
 <p align="right"><a href="#top">(back to top)</a></p>
+<div id="citation"></div>
+
+## 🗣️ Citation
+
+Please, cite this work when referring to the DUMB attacker model:
+
+```
+@misc{marchiori2023stixnet,
+      title={STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports}, 
+      author={Francesco Marchiori and Mauro Conti and Nino Vincenzo Verde},
+      year={2023},
+      eprint={2303.09999},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
+
+<p align="right"><a href="#top">(back to top)</a></p>
 <div id="usage"></div>
 
 ## ⚙️ Usage
@@ -68,7 +89,6 @@ To use the models, extract the datasets or run a module, start by cloning the re
 git clone https://github.com/Mhackiori/STIXnet.git
 cd STIXnet
 ```
-<!-- <sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work.</sup> -->
 
 Then, install the required Python packages by running:
 
