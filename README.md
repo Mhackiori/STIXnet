@@ -65,7 +65,7 @@
 
 ## 🗣️ Citation
 
-Please, cite this work when referring to the DUMB attacker model:
+Please, cite this work when referring to STIXnet.
 
 ```
 @misc{marchiori2023stixnet,
