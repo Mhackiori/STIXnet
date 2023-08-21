@@ -11,7 +11,7 @@
   <p align="center">
     A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports
     <br />
-    <a href="https://arxiv.org/abs/2303.09999"><strong>Preprint available »</strong></a>
+    <a href="https://doi.org/10.1145/3600160.3600182"><strong>Paper available »</strong></a>
     <br />
     <br />
     <a href="https://www.math.unipd.it/~fmarchio/">Francesco Marchiori</a>
@@ -68,13 +68,21 @@
 Please, cite this work when referring to STIXnet.
 
 ```
-@misc{marchiori2023stixnet,
-      title={STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports}, 
-      author={Francesco Marchiori and Mauro Conti and Nino Vincenzo Verde},
-      year={2023},
-      eprint={2303.09999},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
+@inproceedings{10.1145/3600160.3600182,
+    author = {Marchiori, Francesco and Conti, Mauro and Verde, Nino Vincenzo},
+    title = {STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports},
+    year = {2023},
+    isbn = {9798400707728},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3600160.3600182},
+    doi = {10.1145/3600160.3600182},
+    booktitle = {Proceedings of the 18th International Conference on Availability, Reliability and Security},
+    articleno = {3},
+    numpages = {11},
+    keywords = {Cyber Threat Intelligence, STIX, Information Extraction, Natural Language Processing},
+    location = {Benevento, Italy},
+    series = {ARES '23}
 }
 ```
 
